@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.mcap binary
+*.bag binary
+*.kml text eol=lf
