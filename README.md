@@ -137,3 +137,7 @@ python -m pytest
 Simulated scans of a lidar moving through a room (each point measured from the pose at its own time):
 the deskewed points must lie on the walls within 1 cm (99 %), for both motion sources, for MCAP and bag
 inputs, with and without per-point times.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
